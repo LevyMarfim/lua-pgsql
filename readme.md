@@ -6,12 +6,11 @@
 
 Replace the string argument in `postgres.connect` located at `test.lua` with your database parameters. If you database has the following parameters:
 
-```
-Host: localhost
-dbname: database
-user: admin
-password: passwd
-```
+|Parameter|Value|
+|Host|localhost|
+|dbname|database|
+|user|admin|
+|password|passwd|
 
 then replace to the following:
 
@@ -27,4 +26,4 @@ lua test.lua
 
 ### Version
 
-Current version of the project is `1.0`.
+Current version of this project is `1.0`.
