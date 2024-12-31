@@ -7,8 +7,8 @@
 Replace the string argument in `postgres.connect` located at `test.lua` with your database parameters. If you database has the following parameters:
 
 |Parameter|Value|
-|:-|:-|
-|Host|localhost|
+|:-:|:-:|
+|host|localhost|
 |dbname|database|
 |user|admin|
 |password|passwd|
